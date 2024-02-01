@@ -1,0 +1,1 @@
+- 👋 Hi, I’m @tommieriksson, an IT/OT-curious PLC-programmer who is currently working as a consultant. 
